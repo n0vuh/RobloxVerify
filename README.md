@@ -3,6 +3,25 @@
 
 A simple Python discord bot to authenticate ownership of ROBLOX accounts.
 ![Preview](https://i.imgur.com/UPGbJjw.gif)
-# notes
-* You can put custom words into words.txt
-* You can edit the code after the command is run to do a task (give a role, change nick, etc)
+
+---
+
+# Documentation
+
+## words.txt
+  * words.txt should contain any words you want to be able to be used with `privKey`.
+  * Each word needs to be seperated by a new line, reference ![here](https://github.com/n0vuh/RobloxVerify/words.txt)
+ 
+## main.py
+  * Contains all code needed to run the discord bot, however you need to fill in a few parameters at the top.
+  * BOT_TOKEN: The token of your bot.
+  * BOT_PREFIX: The desired prefix of your bot.
+  * MAX_REQUESTS: The max requests to be sent before timing out the user (prompts to restart command)
+
+## dependencies
+  * requests
+  * discord
+  * random
+  * python 3.8>
+  
+![DISCORD SERVER](https://novuh.dev/discord)
