@@ -10,7 +10,7 @@ A simple Python discord bot to authenticate ownership of ROBLOX accounts.
 
 ## words.txt
   * words.txt should contain any words you want to be able to be used with `privKey`.
-  * Each word needs to be seperated by a new line, reference ![here](https://github.com/n0vuh/RobloxVerify/words.txt)
+  * Each word needs to be seperated by a new line, reference ![here](https://github.com/n0vuh/RobloxVerify/blob/master/words.txt)
  
 ## main.py
   * Contains all code needed to run the discord bot, however you need to fill in a few parameters at the top.
