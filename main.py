@@ -1,7 +1,8 @@
 # made by novuh.dev/github
-# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/README.md
-# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/README.md
-# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/README.md
+# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/blob/master/README.md
+# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/blob/master/README.md
+# NEED HELP? -> https://github.com/n0vuh/RobloxVerify/blob/master/README.md
+
 import discord, requests, time, random
 from discord.ext import commands
 
