@@ -1,3 +1,5 @@
+** Archived due to new roblox updates @ poorly written old code, follow me I might release something similar in the near future!
+
 # RobloxVerify
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/n0vuh/RobloxVerify?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/n0vuh/RobloxVerify?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/n0vuh/RobloxVerify?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/n0vuh/RobloxVerify?style=for-the-badge)
 
